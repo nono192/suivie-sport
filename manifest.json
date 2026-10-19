@@ -1,0 +1,12 @@
+{
+  "name": "LEVEL UP — Mon entraînement",
+  "short_name": "LEVEL UP",
+  "description": "Organise tes séances, crée tes exercices et garde tes jours de repos.",
+  "lang": "fr-FR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111310",
+  "theme_color": "#111310",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
